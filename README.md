@@ -1,2 +1,2 @@
-# soptify
+# Spotify
 #HTML , #CSS
